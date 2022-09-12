@@ -1,0 +1,146 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Transpose",
+            "request": "launch",
+            "mainClass": "Transpose",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch TicTacToe",
+            "request": "launch",
+            "mainClass": "TicTacToe",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch LowerTriangular",
+            "request": "launch",
+            "mainClass": "LowerTriangular",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch UpperTraningular",
+            "request": "launch",
+            "mainClass": "sessionEight.UpperTraningular",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReferenceTrap",
+            "request": "launch",
+            "mainClass": "sessionEight.ReferenceTrap",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramid",
+            "request": "launch",
+            "mainClass": "Pyramid",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops",
+            "request": "launch",
+            "mainClass": "sessionEight.Loops",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Functions",
+            "request": "launch",
+            "mainClass": "sessionEight.Functions",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditionals",
+            "request": "launch",
+            "mainClass": "Conditionals",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditionals",
+            "request": "launch",
+            "mainClass": "sessionEight.Conditionals",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Breakpoints",
+            "request": "launch",
+            "mainClass": "sessionEight.Breakpoints",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "TheWorldOfObject.airline_reservation_system.Main",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        }
+    ]
+}
