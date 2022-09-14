@@ -1,5 +1,3 @@
-package sessionEight;
-
 public class Breakpoints {
 
   public static void main(String[] args) {

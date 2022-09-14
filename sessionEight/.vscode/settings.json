@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "vending-machine",
+        "throwing-unchecked-exceptions",
+        "mutable",
+        "immutable",
+        "dealership",
+        "UncheckedException",
+        "DebuggingWorkbooks/exerciseEight",
+        "CheckedExceptions",
+        ""
+    ]
+}

@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RuntimeException3",
+            "request": "launch",
+            "mainClass": "RuntimeException3",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch RuntimeException2",
+            "request": "launch",
+            "mainClass": "RuntimeException2",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch RuntimeException1",
+            "request": "launch",
+            "mainClass": "RuntimeException1",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParseURL",
+            "request": "launch",
+            "mainClass": "ParseURL",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadingFiles",
+            "request": "launch",
+            "mainClass": "ReadingFiles",
+            "projectName": "JavaDevelopmentBootcamp_f28712fd"
+        },
+        {
+            "type": "java",
             "name": "Launch Transpose",
             "request": "launch",
             "mainClass": "Transpose",
